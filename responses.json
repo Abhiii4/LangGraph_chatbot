@@ -1,0 +1,16 @@
+{
+    "hello": "Hi there! How can I assist you?",
+    "hi": "Hello! What can I do for you?",
+    "bye": "Goodbye! Have a great day!",
+    "goodbye": "See you next time!",
+    "how are you": "I'm just a bot, but I'm here to help!",
+    "what's your name": "I'm a chatbot powered by LangGraph!",
+    "who created you": "I was created using Python and LangGraph!",
+    "what can you do": "I can chat with you and answer basic questions!",
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything! 😆",
+    "thank you": "You're welcome!",
+    "what is ai": "AI stands for Artificial Intelligence, which enables machines to mimic human intelligence!",
+    "who is the president of the usa": "As of 2024, Joe Biden is the President of the United States.",
+    "what is the capital of france": "The capital of France is Paris."
+    
+}
